@@ -1,5 +1,11 @@
 
+<h1 align="center">Hi 👋, I'm Tanesha Gahtori</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taneshagahtori&label=Profile%20views&color=0e75b6&style=flat" alt="taneshagahtori" /> </p>
+
+ 📫 How to reach me **iamtanesha13@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tangent9516) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tg_creativeshow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taneshagahtori) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamtanesha13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tashu1226) 
