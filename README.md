@@ -1,4 +1,4 @@
-![logo](https://github.com/taneshagahtori/taneshagahtori/blob/main/Tanesha%20Gahtori.png)
+
 
 <h1 align="center">Hi 👋, I'm Tanesha Gahtori</h1>
 <h3 align="center">A passionate Web developer from India</h3>
